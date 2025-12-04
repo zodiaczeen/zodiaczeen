@@ -3,10 +3,16 @@
 ### 👨‍💻 I am a Computer Science engineering student at VIT Bhopal, passionate about leveraging technology to solve complex problems.
 
  My primary focus is on **competitive programming** (specifically Codeforces) and **web Development**. When I'm not training models or solving algorithmic problems, I'm analyzing chess positions or reading web novels.
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[zodiaczeen]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[zodiaczeen]&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
 
+
+
+
+
+### 📊 My Stats
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodiaczeen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodiaczeen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### 🛠️ Technical Stack
 
 * **Languages:** Python, Java, HTML/CSS/JavaScript, C, C++, React, Nodejs, expressjs
