@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**zodiaczeen/zodiaczeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Engineering Student | Deep Learning Enthusiast | Competitive Programmer
 
-Here are some ideas to get you started:
+I am an engineering student from India passionate about leveraging technology to solve complex problems. My primary focus is on **Deep Learning** (specifically in the medical domain) and **Software Development**. When I'm not training models or solving algorithmic problems, I'm analyzing chess positions or reading web novels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+
+* **Languages:** Python, Java, HTML/CSS
+* **Deep Learning:** TensorFlow, Keras, CNNs (3D U-Nets), Medical Image Segmentation
+* **Tools & Concepts:** Git, Networking (TCP/IP), OOPs
+* **Currently Learning:** Advanced Data Structures & Algorithms
+
+---
+
+### 🔭 Current Focus & Projects
+
+* **Medical Imaging:** Working on deep learning models for 3D medical image segmentation using TensorFlow/Keras.
+* **Competitive Programming:** Actively solving problems on **Codeforces** to sharpen algorithmic thinking.
+* **Java Development:** Applying concepts from my recent Coursera specialization in Java to build robust applications.
+
+---
+
+### 📊 Stats & Achievements
+
+* **Chess:** ~1300 Elo (Always up for a game!)
+* **Certifications:**
+    * *The Bits and Bytes of Computer Networking* (Coursera)
+    * *Java Programming* (Coursera)
+
+---
+
+### ⚡ Fun Facts
+
+* ♟️ **Chess Strategy:** I treat coding like a chess match—calculating moves ahead and optimizing for the best outcome.
+* 📚 **Reading:** Huge fan of *Lord of the Mysteries*.
+* 🎬 **Anime:** I enjoy psychological thrillers like *Monster*.
+
+---
+
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-profile)
+[<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/your-handle)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
