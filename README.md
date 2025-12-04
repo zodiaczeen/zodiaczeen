@@ -3,6 +3,7 @@
 ### 👨‍💻 I am a Computer Science engineering student at VIT Bhopal, passionate about leveraging technology to solve complex problems.
 
  My primary focus is on **competitive programming** (specifically Codeforces) and **web Development**. When I'm not training models or solving algorithmic problems, I'm analyzing chess positions or reading web novels.
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[zodiaczeen]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
