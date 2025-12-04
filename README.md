@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ayush! 👋
 
-### 👨‍💻 Engineering Student | Deep Learning Enthusiast | Competitive Programmer
+### 👨‍💻 I am a Computer Science engineering student at VIT Bhopal, passionate about leveraging technology to solve complex problems.
 
-I am an engineering student from India passionate about leveraging technology to solve complex problems. My primary focus is on **Deep Learning** (specifically in the medical domain) and **Software Development**. When I'm not training models or solving algorithmic problems, I'm analyzing chess positions or reading web novels.
+ My primary focus is on **competitive programming** (specifically Codeforces) and **web Development**. When I'm not training models or solving algorithmic problems, I'm analyzing chess positions or reading web novels.
 
 ---
 
 ### 🛠️ Technical Stack
 
-* **Languages:** Python, Java, HTML/CSS
+* **Languages:** Python, Java, HTML/CSS/JavaScript, C, C++, React, Nodejs, expressjs
 * **Deep Learning:** TensorFlow, Keras, CNNs (3D U-Nets), Medical Image Segmentation
-* **Tools & Concepts:** Git, Networking (TCP/IP), OOPs
+* **Tools & Concepts:** Git, Networking (TCP/IP), OOPs, 
 * **Currently Learning:** Advanced Data Structures & Algorithms
 
 ---
@@ -19,6 +19,8 @@ I am an engineering student from India passionate about leveraging technology to
 
 * **Medical Imaging:** Working on deep learning models for 3D medical image segmentation using TensorFlow/Keras.
 * **Competitive Programming:** Actively solving problems on **Codeforces** to sharpen algorithmic thinking.
+* **A chess engine
+* **Windows file manager
 * **Java Development:** Applying concepts from my recent Coursera specialization in Java to build robust applications.
 
 ---
